@@ -1,2 +1,2 @@
-# ALFIDO-TECH-TASK2-LOAN-PREDICTION
+# ALFIDO-TECH-TASK 2-Loan Approval Prediction
 Visualization in Python
